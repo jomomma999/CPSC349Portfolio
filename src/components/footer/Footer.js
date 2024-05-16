@@ -1,14 +1,13 @@
 import React from "react";
-import GitHubIcon from '@mui/icons-material/GitHub';
 import "./Footer.css";
 
-//simple footer that shows on the bottom of the portoflio
+// Simple footer that shows on the bottom of the website
 function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
         <a href="https://github.com/jomomma999" target="_blank" rel="noopener noreferrer">
-         <GitHubIcon/>
+          GitHub Link
         </a>
       </div>
     </div>
