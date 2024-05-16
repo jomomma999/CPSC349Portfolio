@@ -7,7 +7,7 @@ function Footer() {
     <div className="footer">
       <div className="socialMedia">
         <a href="https://github.com/jomomma999" target="_blank" rel="noopener noreferrer">
-          GitHub Link
+          GitHub 
         </a>
       </div>
     </div>
