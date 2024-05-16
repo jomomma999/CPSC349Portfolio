@@ -1,4 +1,3 @@
-
 .projects {
     display: flex;
     flex-wrap: wrap;
@@ -46,11 +45,4 @@
     text-decoration: underline; 
   }
 
-  /* Changes icon to black */
-  .git svg {
-    color: black;
-    margin: 20px;
-    font-size: 30px;
-    cursor: pointer;
-  } 
   
